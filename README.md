@@ -27,4 +27,4 @@ Calculated Customer Lifetime Value (CLV)
 -Insights
 Identified high-value customers contributing the most revenue
 Determined top-performing product categories
-Established the overall revenue timeline and sales trends
+Established the overall revenue timeline and sales trends.
