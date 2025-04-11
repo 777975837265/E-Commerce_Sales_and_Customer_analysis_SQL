@@ -6,7 +6,7 @@ The goal is to practice real-world data analysis using SQL and generate actionab
 
 -Dataset Overview
 The project uses four key tables:
-Table Name	Description
+	Table Name	Description
 customers- Customer details including ID and name
 orders- Order records with customer ID and order date
 order_items-Order level line items including quantity, price
